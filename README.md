@@ -94,5 +94,4 @@ You are free to use or modify it for non-commercial use.
 
 ## 🔗 GitHub Repository
 
-[View on GitHub](https://github.com/your-username/attend-smart)  
-*(Replace with actual repo link)*
+[View on GitHub](https://github.com/Tahadar7/Attend-Smart-Facial-Recognition.git)
