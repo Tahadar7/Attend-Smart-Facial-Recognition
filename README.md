@@ -79,9 +79,9 @@ The system captures real-time video from a webcam, recognizes student faces, and
 
 ## 👥 Team Members
 
-- Taha Manshoor (23-NTU-CS-1213)  
-- Muhammad Zain Ul Abidin (23-NTU-CS-1200)  
-- Muhammad Talha (23-NTU-CS-1195)
+- Taha Manshoor 
+- Muhammad Zain Ul Abidin 
+- Muhammad Talha
 
 ---
 
