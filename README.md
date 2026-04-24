@@ -111,7 +111,7 @@ config/            # API keys & system settings
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/sheikhzainfiaz/attend_smart.git
+git clone https://github.com/Tahadar7/Attend-Smart-Facial-Recognition
 cd attend_smart
 ```
 
@@ -207,6 +207,6 @@ You are free to use and modify it for **non-commercial use**.
 
 ## 🔗 GitHub Repository
 
-👉 [https://github.com/sheikhzainfiaz/attend_smart](https://github.com/Tahadar7/Attend-Smart-Facial-Recognition)
+👉 [https://github.com/Tahadar7/Attend-Smart-Facial-Recognition](https://github.com/Tahadar7/Attend-Smart-Facial-Recognition)
 
 ---
