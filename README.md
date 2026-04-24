@@ -152,21 +152,18 @@ python main.py
 
 ### 🔐 Login Page
 
-[View Image](https://github.com/sheikhzainfiaz/Attend_Smart/blob/cba5b2ef5047636d8ea26e6af4c696d06cb2b1a7/Screenshot%202025-08-13%20113556.png)
 ![Login](https://raw.githubusercontent.com/sheikhzainfiaz/Attend_Smart/cba5b2ef5047636d8ea26e6af4c696d06cb2b1a7/Screenshot%202025-08-13%20113556.png)
 
 ---
 
 ### 📊 Dashboard
 
-[View Image](https://github.com/sheikhzainfiaz/Attend_Smart/blob/35d1d1bfac1cb830098931793912bc3c34721616/Screenshot%202025-08-13%20114104.png)
 ![Dashboard](https://raw.githubusercontent.com/sheikhzainfiaz/Attend_Smart/35d1d1bfac1cb830098931793912bc3c34721616/Screenshot%202025-08-13%20114104.png)
 
 ---
 
 ### 📥 Export Attendance
 
-[View Image](https://github.com/sheikhzainfiaz/Attend_Smart/blob/35d1d1bfac1cb830098931793912bc3c34721616/Screenshot%202025-08-13%20114001.png)
 ![Export](https://raw.githubusercontent.com/sheikhzainfiaz/Attend_Smart/35d1d1bfac1cb830098931793912bc3c34721616/Screenshot%202025-08-13%20114001.png)
 
 ---
@@ -194,7 +191,6 @@ python main.py
 * **Taha Manshoor**
 * **Muhammad Talha**
 * **Muhammad Zain Ul Abidin**
-* **Sheikh Zain Fiaz**
 
 ---
 
@@ -211,8 +207,6 @@ You are free to use and modify it for **non-commercial use**.
 
 ## 🔗 GitHub Repository
 
-👉 [https://github.com/sheikhzainfiaz/attend_smart](https://github.com/sheikhzainfiaz/attend_smart)
+👉 [https://github.com/sheikhzainfiaz/attend_smart](https://github.com/Tahadar7/Attend-Smart-Facial-Recognition)
 
 ---
-
-Just tell me 👍
